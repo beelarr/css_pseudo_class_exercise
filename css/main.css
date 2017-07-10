@@ -1,0 +1,14 @@
+span {
+    border: 1px black solid;
+    display: block;
+    margin: 25px;
+}
+
+ul li {
+    display: inline-block;
+}
+
+.n-child :nth-child(even) {
+    border: 1px solid black;
+
+}
